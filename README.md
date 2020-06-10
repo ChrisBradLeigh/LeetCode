@@ -16,3 +16,5 @@ Completion Table (Completion symbols are click-able links):
 | June / Week 1 | [:white_check_mark:](https://github.com/ChrisBradLeigh/LeetCode/blob/master/JuneDailyChallenges/Week%201/Day1.py) | [:white_check_mark:](https://github.com/ChrisBradLeigh/LeetCode/blob/master/JuneDailyChallenges/Week%201/Day2.py) | [:white_check_mark:](https://github.com/ChrisBradLeigh/LeetCode/blob/master/JuneDailyChallenges/Week%201/Day3.py) | [:white_check_mark:](https://github.com/ChrisBradLeigh/LeetCode/blob/master/JuneDailyChallenges/Week%201/Day4.py) | :x:   | :x:   | :x:   |
 | June / Week 2 | [:white_check_mark:](https://github.com/ChrisBradLeigh/LeetCode/blob/master/JuneDailyChallenges/Week%202/Day1.py) | [:white_check_mark:](https://github.com/ChrisBradLeigh/LeetCode/blob/master/JuneDailyChallenges/Week%202/Day2.py) | [:white_check_mark:](https://github.com/ChrisBradLeigh/LeetCode/blob/master/JuneDailyChallenges/Week%202/Day3.py) |                    |       |       |       |
 ## Explore / Problemsets
+
+Some may be duplicates of the Daily Challenges as Leetcode sometimes recycles the questions into challenges.
