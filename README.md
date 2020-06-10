@@ -18,3 +18,12 @@ Completion Table (Completion symbols are click-able links):
 ## Explore / Problemsets
 
 Some may be duplicates of the Daily Challenges as Leetcode sometimes recycles the questions into challenges.
+
+Python Soultions:
+
+|                                        |                              |                                            |                           |
+|----------------------------------------|------------------------------|--------------------------------------------|---------------------------|
+| Combine Two Tables.py                  | Delete Node in a Linked List | Find Numbers with Even Number of Digits.py | Invert Binary Tree.py     |
+| Is Subsequence.py                      | Longest Common Prefix.py     | Max Consecutive Ones.py                    | Power of Two.py           |
+| Remove Duplicates from Sorted Array.py | Reverse String.py            | Roman to Integer.py                        | Search Insert Position.py |
+| Squares of a Sorted Array.py           | Two City Scheduling.py       | Two Sum.py                                 |                   
