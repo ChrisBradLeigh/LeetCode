@@ -11,28 +11,7 @@ Key:
 
 :x: - Not Completed
 
-June Daily Challenges
-| Status | Week | Day |
-|--------|------|-----|
-|:white_check_mark:|1|1
-|:white_check_mark:|1|2
-|:white_check_mark:|1|3
-|:white_check_mark:|1|4
-|:x:|1|5
-|:x:|1|6
-|:x:|1|7
-|:white_check_mark:|2|1
-|:white_check_mark:|2|2
-|:white_check_mark:|2|3
-| Status | Week | Day |
-|--------|------|-----|
-|:white_check_mark:|1|1
-|:white_check_mark:|1|2
-|:white_check_mark:|1|3
-|:white_check_mark:|1|4
-|:x:|1|5
-|:x:|1|6
-|:x:|1|7
-|:white_check_mark:|2|1
-|:white_check_mark:|2|2
-|:white_check_mark:|2|3
+| Weeks         | Day 1              | Day 2              | Day 3              | Day 4              | Day 5 | Day 6 | Day 7 |
+|---------------|--------------------|--------------------|--------------------|--------------------|-------|-------|-------|
+| June / Week 1 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:   | :x:   | :x:   |
+| June / Week 2 | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |       |       |       |
