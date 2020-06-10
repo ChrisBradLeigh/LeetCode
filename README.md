@@ -16,4 +16,4 @@ Completion Table:
 | June / Week 1 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:   | :x:   | :x:   |
 | June / Week 2 | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |       |       |       |
 
-## Explore / Problems
+## Explore / Problemsets
