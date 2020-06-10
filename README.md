@@ -3,7 +3,7 @@ Repository consisting of all my LeetCode answers.
 
 ## Daily Chalenges:
 
-Completion Table:
+Completion Table (Completion symbols are click-able links):
 
 :white_check_mark: - Completed within time frame
 
