@@ -1,7 +1,7 @@
 # LeetCode
 Repository consisting of all my LeetCode answers.
 
-Daily Chalenges:
+## Daily Chalenges:
 
 Key:
 
@@ -15,3 +15,5 @@ Key:
 |---------------|--------------------|--------------------|--------------------|--------------------|-------|-------|-------|
 | June / Week 1 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:   | :x:   | :x:   |
 | June / Week 2 | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |       |       |       |
+
+## Explore / Problems
