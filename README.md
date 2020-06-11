@@ -14,7 +14,7 @@ Completion Table (Completion symbols are click-able links):
 | Weeks         | Day 1                                                                                                             | Day 2              | Day 3              | Day 4              | Day 5 | Day 6 | Day 7 |
 |---------------|-------------------------------------------------------------------------------------------------------------------|--------------------|--------------------|--------------------|-------|-------|-------|
 | June / Week 1 | [:white_check_mark:](https://github.com/ChrisBradLeigh/LeetCode/blob/master/JuneDailyChallenges/Week%201/Day1.py) | [:white_check_mark:](https://github.com/ChrisBradLeigh/LeetCode/blob/master/JuneDailyChallenges/Week%201/Day2.py) | [:white_check_mark:](https://github.com/ChrisBradLeigh/LeetCode/blob/master/JuneDailyChallenges/Week%201/Day3.py) | [:white_check_mark:](https://github.com/ChrisBradLeigh/LeetCode/blob/master/JuneDailyChallenges/Week%201/Day4.py) | :x:   | :x:   | :x:   |
-| June / Week 2 | [:white_check_mark:](https://github.com/ChrisBradLeigh/LeetCode/blob/master/JuneDailyChallenges/Week%202/Day1.py) | [:white_check_mark:](https://github.com/ChrisBradLeigh/LeetCode/blob/master/JuneDailyChallenges/Week%202/Day2.py) | [:white_check_mark:](https://github.com/ChrisBradLeigh/LeetCode/blob/master/JuneDailyChallenges/Week%202/Day3.py) |                    |       |       |       |
+| June / Week 2 | [:white_check_mark:](https://github.com/ChrisBradLeigh/LeetCode/blob/master/JuneDailyChallenges/Week%202/Day1.py) | [:white_check_mark:](https://github.com/ChrisBradLeigh/LeetCode/blob/master/JuneDailyChallenges/Week%202/Day2.py) | [:white_check_mark:](https://github.com/ChrisBradLeigh/LeetCode/blob/master/JuneDailyChallenges/Week%202/Day3.py) | [:white_check_mark:](https://github.com/ChrisBradLeigh/LeetCode/blob/master/JuneDailyChallenges/Week%202/Day4.py) |       |       |       |
 ## Explore / Problemsets
 
 Some may be duplicates of the Daily Challenges as Leetcode sometimes recycles the questions into challenges.
@@ -26,7 +26,7 @@ Some may be duplicates of the Daily Challenges as Leetcode sometimes recycles th
 | Combine Two Tables.py                  | Delete Node in a Linked List | Find Numbers with Even Number of Digits.py | Invert Binary Tree.py     |
 | Is Subsequence.py                      | Longest Common Prefix.py     | Max Consecutive Ones.py                    | Power of Two.py           |
 | Remove Duplicates from Sorted Array.py | Reverse String.py            | Roman to Integer.py                        | Search Insert Position.py |
-| Squares of a Sorted Array.py           | Two City Scheduling.py       | Two Sum.py                                 |                   
+| Squares of a Sorted Array.py           | Two City Scheduling.py       | Two Sum.py                                 | Sort Colors.py             
 
 ### MySQL Solutions:
 
