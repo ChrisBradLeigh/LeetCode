@@ -23,7 +23,7 @@ Note: Problemsets may overlap with Daily Challenges.
 
 |                                        |                              |                                            |                           |
 |----------------------------------------|------------------------------|--------------------------------------------|---------------------------|
-| Combine Two Tables.py                  | Delete Node in a Linked List | Find Numbers with Even Number of Digits.py | Invert Binary Tree.py     |
+| Combine Two Tables.sql                  | Delete Node in a Linked List | Find Numbers with Even Number of Digits.py | Invert Binary Tree.py     |
 | Is Subsequence.py                      | Longest Common Prefix.py     | Max Consecutive Ones.py                    | Power of Two.py           |
 | Remove Duplicates from Sorted Array.py | Reverse String.py            | Roman to Integer.py                        | Search Insert Position.py |
 | Squares of a Sorted Array.py           | Two City Scheduling.py       | Two Sum.py                                 | Sort Colors.py             
